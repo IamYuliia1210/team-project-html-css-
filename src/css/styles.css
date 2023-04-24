@@ -1,0 +1,19 @@
+/**
+  |============================
+  | include css partials with
+  | default @import url()
+  |============================
+*/
+
+@import url('./reset.css');
+@import url('../font/font.css');
+@import url('./header.css');
+@import url('./hero.css');
+@import url('./about.css');
+@import url('./catalog.css');
+@import url('./new-watches.css');
+@import url('./sale.css');
+@import url('./footer.css');
+@import url('./modal.css');
+@import url('./mob-menu.css');
+@import url('./swiper.css');
